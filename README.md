@@ -4,7 +4,7 @@ Welcome to **BestSellers**! This is your go-to site for discovering the top tech
 
 ## 🌟 Features 🌟
 
-- **Top Albums**: Browse through a curated list of the most iconic techno and house music albums.
+- **Top Albums**: Browse through a curated list of the most iconic rock music albums.
 - **Interactive Likes**: Show some love to your favorite albums by giving them a thumbs up! (Or a thumbs down if you're feeling picky 😜)
 - **Responsive Design**: Enjoy a seamless experience on any device, whether you're on your phone, tablet, or desktop.
 
@@ -25,7 +25,7 @@ My mission is to make this site even more awesome! Here are some cool features I
 
 ## 🎸 Let's Groove! 🎸
 
-I hope you enjoy your time on BestSellers. Keep the music alive and let's celebrate the best of techno and house together!
+I hope you enjoy your time on BestSellers. Keep the music alive and let's celebrate it together!
 
 Stay tuned for more updates and happy listening! 🎧
 
